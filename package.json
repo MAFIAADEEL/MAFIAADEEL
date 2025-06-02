@@ -5,11 +5,11 @@
     "main": "index.js",
     "scripts": {
       "start": "pm2 start index.js --deep-monitoring --attach --name jawad-md",
-      "stop": "pm2 stop jawad-md",
-     "restart": "pm2 restart jawad-md"
+      "stop": "pm2 stop mafia-md",
+     "restart": "pm2 restart mafia-md"
     },
   "dependencies": {
-    "@whiskeysockets/baileys": "npm:@fizzxydev/baileys-pro@8.7.2",          
+    "@whiskeysockets/baileys": "npm:@fizzxydev/baileys-pro@6.7.18",          
     "@adiwajshing/keyed-db": "^0.2.4",
     "qrcode": "^1.5.3",
     "awesome-phonenumber": "^2.64.0",

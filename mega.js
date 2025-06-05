@@ -1,8 +1,8 @@
 const mega = require("megajs");
 
 // Your mega.nz account credentials
-let email = ' JawadTechX '; // Your mega.nz account email
-let password = ' JawadTechX '; // Your mega.nz account password
+let email = 'mafiaadeel302@gmail.com'; // Your mega.nz account email
+let password = 'mafiaadeel'; // Your mega.nz account password
 
 const accountDetails = {
   email: email,
